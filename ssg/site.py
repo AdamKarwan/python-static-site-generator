@@ -1,4 +1,3 @@
-from os import mkdir
 from pathlib import Path
 
 # create a class called Site
